@@ -1,9 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+[Naufal Faisa](https://github.com/naufalfaisa).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="naufalfaisa/myweb"}
 
 > ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> - [新年快乐](https://www.pixiv.net/artworks/95190271) by [QuAn_](https://www.pixiv.net/users/6657532)
+> - [清流の生まれいづるところ](https://www.pixiv.net/artworks/65014027) by [藤ちょこ（藤原）](https://www.pixiv.net/users/27517)
